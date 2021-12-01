@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb276764b4b3eeb46a67a24821c59ef7, type: 3}
+  m_Name: NikolaTesla
+  m_EditorClassIdentifier: 
+  activityName: Nikola Tesla Museum
+  desciption: After the death of Nikola Tesla, all his personal property and writings
+    were shipped to Belgrade, and put on display in 1955, becoming the first technical
+    museum in Yugoslavia.
+  logo: {fileID: 21300000, guid: b77eafc124e75ad4d86cd1ccf3726e8e, type: 3}
+  storefront: {fileID: 0}
+  url: https://www.google.com/maps/place/Nikola+Tesla+Museum/@44.8051348,20.4685453,17z/data=!3m1!4b1!4m5!3m4!1s0x475a7aa0e1f3ad73:0xc95e7d097b00ee1a!8m2!3d44.8051068!4d20.4706997
+  cityInfo: {fileID: 11400000, guid: c7a90e2cc514cc14ca2002de13a39a60, type: 2}
+  type: 0

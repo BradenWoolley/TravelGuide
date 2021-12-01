@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb276764b4b3eeb46a67a24821c59ef7, type: 3}
+  m_Name: Walter
+  m_EditorClassIdentifier: 
+  activityName: Walter
+  desciption: Walter is a great Balkan grill restaurant
+  logo: {fileID: 21300000, guid: bf56c673c3c00784cb182c7407c39de2, type: 3}
+  storefront: {fileID: 0}
+  url: https://www.google.com/maps/search/walter/@44.8094161,20.4660133,15z
+  cityInfo: {fileID: 11400000, guid: c7a90e2cc514cc14ca2002de13a39a60, type: 2}
+  type: 1
